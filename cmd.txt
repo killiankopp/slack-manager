@@ -1,0 +1,1 @@
+/github subscribe https://github.com/COGEPFrance/MDM-document-signature issues, pulls, commits:*, releases, deployments, branches, comments, discussions, reviews, workflows
